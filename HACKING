@@ -40,7 +40,7 @@ Code Structure
   Contains input files for tests.
 
 - ooni/
-  Contains the main ooni probe comand line client
+  Contains the main ooniprobe command line client
 
 - ooni/inputunit.py
   In here we have functions related to the creation of input
@@ -90,7 +90,7 @@ Code Structure
   hackish way, we put it in here. This one day will be empty.
 
 - ooni/utils/log.py
-  log realted functions.
+  log-related functions.
 
 - ooni/utils/net.py
   utilities for networking related operations
